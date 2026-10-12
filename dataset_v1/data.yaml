@@ -1,0 +1,5 @@
+path: C:/Users/Firdose/Downloads/Stock Counting/dataset_v1
+train: images/train
+val: images/val
+names:
+  0: coil
